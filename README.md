@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello and welsome to my git page where you can see all my personal projects.<br>I'm looking to collaborate  on front end automation projects.<br>I'm currently learning how to create highly detailed prompts to use on GitHub co pilot.<br>I'm am an aviation enthusiast and a drummer on my free time.<br><br>Follow my journey om Linkedin
+Hello and welcome to my git page where you can see all my personal projects.<br> Below are 3 automation projects to validate the same 7 scenarios.<br>The first project named 'AmazonRing' is a Frontend framework using JavaScript and Playwright.<br>The second project validates all API's of that 7 scenarios with Rest assured framework using Java.<br>The third project is a Mobile framework with Appium that validates that 7 scenarios on Android and iOS.<br><br>Follow my journey om Linkedin
 
 
 ## 🌐 Socials:
