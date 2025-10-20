@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web automation on Amazon website using JavaScript on Play Wright.<br>I'm looking to collaborate  on front end automation projects.<br>I'm currently learning how to create highly detailed prompts to use on GitHub co pilot.<br>I'm am an aviation enthusiast and a drummer on my free time.<br><br>Follow my journey om Linkedin
+Hello and welsome to my git page where you can see all my personal projects.<br>I'm looking to collaborate  on front end automation projects.<br>I'm currently learning how to create highly detailed prompts to use on GitHub co pilot.<br>I'm am an aviation enthusiast and a drummer on my free time.<br><br>Follow my journey om Linkedin
 
 
 ## 🌐 Socials:
