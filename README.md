@@ -1,11 +1,12 @@
 # 💫 About Me:
 Hello there,
-I am Quality Engineer who loves Testing different systems on different platforms.
+I am Diego, a Quality Engineer who loves Testing different systems on different platforms.
 
 This page is to display my techhnical abilities for Automation tests on Web or APIs or mobile applications.
+
 I will be posting here different projects for Web, Rest APIs and Mobile(iOS + Android).
 
-Thank you !
+Thank you!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/diegomontiely/en) 
